@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 1646,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sites/blog/app",
+		"/C/Sites/blog/app/views/welcome"
+	],
+	"file_history":
+	[
+		"/C/Fontes/ViaVerde/trunk/Estrutura de Dados/database/liquibase/BdDocument.properties",
+		"/C/Users/Jose/Desktop/VersaoTesteValida1.cs",
+		"/C/Fontes/Novo-ComFacil/com-facil-modulo-global/.gitignore",
+		"/C/Fontes/Novo-ComFacil/com-facil-modulo-global/.gitattributes",
+		"/C/Sites/blog/Gemfile",
+		"/C/Sites/blog/config/routes.rb",
+		"/C/Sites/blog/app/views/welcome/index.html.erb",
+		"/C/Fontes/bolsa-verde/Interface/app/app.module.js",
+		"/C/Fontes/bolsa-verde/Interface/app/constants.js",
+		"/C/Users/Jose/Desktop/20151006_bolsa-verde/Domain/Persistence/NHibernate/NHibernatePersistence.cs",
+		"/C/Users/Jose/.ssh/id_rsa.pub",
+		"/C/Users/Jose/Desktop/NhibernateCopia.cs",
+		"/C/Users/Jose/Desktop/SEM ERRO - bolsa-verde/MapeamentoOR/Diagnostico/AreaAntropica.cs",
+		"/C/Fontes/bolsa-verde/Web.config",
+		"/C/Users/Jose/Desktop/itau.txt",
+		"/C/Fontes/bolsa-verde/BolsaVerde/Web.config",
+		"/C/Fontes/Web.config",
+		"/C/Users/Jose/.ssh/id_rsa",
+		"/C/Fontes/bolsa-verde.git/Infraestructure/packages.config",
+		"/C/Fontes/bolsa-verde.git/BolsaVerde/packages.config",
+		"/C/Fontes/bolsa-verde.git/Interface/bower.json",
+		"/D/TOS_DI-20141024_1545-V5.6.0/workspace/GR_WH_S823_20150715163623.ING.RELEASED"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"allowOverride"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								773,
+								773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/welcome/index.html.erb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
